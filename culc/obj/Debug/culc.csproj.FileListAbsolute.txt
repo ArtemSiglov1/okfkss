@@ -1,0 +1,8 @@
+D:\PracticProekt\culc\bin\Debug\culc.exe.config
+D:\PracticProekt\culc\bin\Debug\culc.exe
+D:\PracticProekt\culc\bin\Debug\culc.pdb
+D:\PracticProekt\culc\obj\Debug\culc.csproj.AssemblyReference.cache
+D:\PracticProekt\culc\obj\Debug\culc.csproj.CoreCompileInputs.cache
+D:\PracticProekt\culc\obj\Debug\culc.exe
+D:\PracticProekt\culc\obj\Debug\culc.pdb
+D:\PracticProekt\culc\obj\Debug\culc.exe.config
